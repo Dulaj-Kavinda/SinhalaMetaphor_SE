@@ -1,0 +1,18 @@
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+body { 
+  font-family: "Open Sans", sans-serif;
+  margin: 10px;
+}
+
+.basic-container {
+  padding: 30px;
+}
+
+.version-info {
+  font-size: 9pt;
+  float: right;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: "Open Sans", sans-serif; }

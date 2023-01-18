@@ -1,0 +1,14 @@
+.example-form-field {
+    width: 40vw;
+    padding: 20px;
+}
+
+.dropdown-button {
+    display: inline-block;
+    margin: 0 20px;
+    background-color: #F0F2F5;
+}
+
+.custom-header {
+    background-color: #F0F2F5;
+}
